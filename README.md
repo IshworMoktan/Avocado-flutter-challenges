@@ -30,8 +30,9 @@ This is the application showcase:
 
 
 
+https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/12dd4886-f586-4a44-8bc3-5e3df6f69376
 
-https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/5b64f708-c3d4-4688-ab92-e64333c843e2
+
 
 
 
