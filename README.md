@@ -26,7 +26,7 @@ This section allows users to watch and interact with video content without leavi
 # Technical Significance:
 This application demonstrates the effective utilization of Flutter and BLoC for efficient state management. It delivers a feature-rich and interactive experience, enabling users to explore posts, comments, and multimedia content. The app showcases the seamless integration of external APIs and multimedia resources into a Flutter application, exemplifying modern mobile app development practices.
 
-This is the application showcase:
+# This is the application video showcase:
 
 
 
@@ -36,7 +36,7 @@ https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/12dd4
 
 
 
-Some Screenshots:
+# Some Screenshots:
 ![Untitled333](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/fabbd350-f0e3-4a95-88d8-63a199f22bca)
 ![Untitled](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/faeb0590-d4b1-4dc5-980e-20b812ce40ed)
 ![Untitled1](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/16d4e913-efb2-430c-8217-c05c4a30e62e)
