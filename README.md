@@ -29,5 +29,5 @@ This application demonstrates the effective utilization of Flutter and BLoC for 
 This is the application showcase:
 
 
-https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/b0976877-42a9-4df0-a206-d7e821dd325b
+
 
