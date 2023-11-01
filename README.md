@@ -35,3 +35,12 @@ https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/5b64f
 
 
 
+Some Screenshots:
+![Untitled](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/faeb0590-d4b1-4dc5-980e-20b812ce40ed)
+![Untitled1](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/16d4e913-efb2-430c-8217-c05c4a30e62e)
+![Untitled2](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/770dafca-e67e-43dd-8b10-088888b4a193)
+![Untitled12](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/08ef9fb4-bf3c-43ce-ad2c-662884bf9c0a)
+![Untitled33](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/4542d7c9-ffa2-4474-b247-629f24fcde2a)
+![Untitled333](https://github.com/IshworMoktan/Avocado-flutter-challenges/assets/89696918/fabbd350-f0e3-4a95-88d8-63a199f22bca)
+
+
